@@ -8,7 +8,7 @@
 
 import argparse
 import sys
-from subprocess import Popen
+from   subprocess import Popen
 
 import search
 

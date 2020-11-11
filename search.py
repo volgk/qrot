@@ -37,7 +37,7 @@ def search_engines(search, exception):
 def print_engines():
 
     print ("ENGINES")
-    print ("=======")
+    print ("=======\n")
     for engine in sorted(engines):
         print(engine)
 
@@ -45,7 +45,7 @@ def print_engines():
 def print_tags():
 
     print ("TAGS            NR OF ENGINES")
-    print ("=============================")
+    print ("=============================\n")
 
     tags = []
 
