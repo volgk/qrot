@@ -1101,5 +1101,11 @@
 		"descr" : "Russian Web Search Engine",
 		"url"   : "https://yandex.com/search?text={}",
 		"tags"  : ["@web-search-engine"]
+	},
+
+	"notevil.onion": {
+		"descr":  "Deep web search engine",
+		"url"  :  "http://hss3uro2hsxfogfq.onion/index.php?q={}",
+		"tags" :  ["@tor", "@darkweb"]
 	}
 }
