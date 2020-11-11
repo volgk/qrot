@@ -9,7 +9,9 @@
 import argparse
 import sys
 from   subprocess import Popen
+import os.path
 
+sys.path.append ("/usr/share/qrot")
 import search
 
 program =  'qrot'

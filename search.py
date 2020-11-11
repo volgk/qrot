@@ -8,9 +8,14 @@
 import json
 import sys
 from   subprocess import Popen
+import os.path
+
+
+if not os.path.isfile ('engines.json'):
+    sys.path.append ('/usr/share/qrot')
 
 with open ('engines.json') as f:
-    engines = json.load(f)
+    engines = json.load(f) 
 
 
 def search_engines(search, exception):
