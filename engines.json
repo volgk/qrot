@@ -1,0 +1,1105 @@
+{
+	"google.com": {
+		"descr"	: "Web Search Engine",
+		"url"	: "https://google.com/search?q={}",
+		"tags"	: ["@web-search-engine"]
+	},
+
+	"yahoo.com"	: {
+		"descr"	: "Web Search Engine",
+		"url"	: "https://search.yahoo.com/search?p={}",
+		"tags"	: ["@web-search-engine"]
+	},
+
+	"bing.com"	: {
+		"descr"	: "Web Search Engine",
+		"url"	: "https://www.bing.com/search?q={}",
+		"tags"	: ["@web-search-engine"]
+	},
+
+	"duckduckgo.com": {
+		"descr"	: "Web Search Engine",
+		"url"	: "https://duckduckgo.com/?q={}",
+		"tags"	: ["@web-search-engine"]
+	},
+
+	"youtube.com": {
+		"descr"	: "Video",
+		"url"	: "https://www.youtube.com/results?search_query={}",
+		"tags"	: ["@video", "@social-network"]
+	},
+
+	"twitter.com": {
+		"descr"	: "News & Social Network",
+		"url"	: "https://twitter.com/search?q={}",
+		"tags"	: ["@news", "@social-network"]
+	},
+
+	"wikipedia.org": {
+		"descr"	: "Online encyclopedia",
+		"url"	: "https://en.wikipedia.org/w/index.php?search={}",
+		"tags"	: ["@wiki", "@encyclopedia"]
+	},
+
+	"facebook.com": {
+		"descr"	: "Social Network",
+		"url"	: "https://www.facebook.com/search/top/?q={}",
+		"tags"	: ["@social-network"]
+	},
+
+	"linkedin.com": {
+		"descr"	: "Social Network",
+		"url"	: "https://www.linkedin.com/search/results/all/?keywords={}&origin=GLOBAL_SEARCH_HEADER",
+		"tags"	: ["@social-network"]
+	},
+
+	"odnoklassniki.ru": {
+		"descr"	: "Russian Social Network",
+		"url"	: "https://ok.ru/search?st.query={}",
+		"tags"	: ["@social-network"]
+	},
+
+	"vkontakte.com": {
+		"descr"	: "Russian Social Network",
+		"url"	: "https://vk.com/search?c%5Bq%5D={}&c%5Bsection%5D=auto",
+		"tags"	: ["@social-network"]
+	},
+
+	"instagram.com": {
+		"descr"	: "Photo & Video Sharing",
+		"url"	: "https://google.com/search?q=site:instagram.com {}",
+		"tags"	: ["@social-network", "@photo", "@video"]
+	},
+
+	"identi.ca"	: {
+		"descr"	: "Social Network & Micro-blogging",
+		"url"	: "https://google.com/search?q=site:identi.ca {}",
+		"tags"	: ["@social-network", "@person", "@blog"]
+	},
+
+	"tumblr.com": {
+		"descr"	: "Social Network & Micro-blogging",
+		"url"	: "https://www.tumblr.com/search/{}",
+		"tags"	: ["@social-network", "@blog"]
+	},
+
+	"flickr.com": {
+		"descr"	: "Image & Video Hosting",
+		"url"	: "https://www.flickr.com/search/?text={}",
+		"tags"	: ["@image", "@video"]
+	},
+
+	"opensecrets.org": {
+		"descr"	: "Track the effect of money and lobbying on elections and public policy",
+		"url"	: "https://www.opensecrets.org/search?q={}",
+		"tags"	: ["@track", "@politic", "@journalism"]
+	},
+
+	"lumendatabase.org"	: {
+		"descr"	: "Database of Digital Millennium Copyright Act takedown requests",
+		"url"	: "https://www.lumendatabase.org/notices/search?utf8=%E2%9C%93&term={}&sort_by=",
+		"tags"	: ["@track", "@database", "@censorship"]
+	},
+
+	"rkn.gov.ru": {
+		"descr"	: "Russian federal body censorship in media and telecommunications",
+		"url"	: "https://reestr.rublacklist.net/search/?q={}",
+		"tags"	: ["@track", "@database", "@censorship"]
+	},
+
+	"pastebin.com": {
+		"descr"	: "Content Hosting Service",
+		"url"	: "https://google.com/search?q=site:pastebin.com {}",
+		"tags"	: ["@paste", "@content"]
+	},
+
+	"gist.github.com": {
+		"descr"	: "Content Hosting Service",
+		"url"	: "https://gist.github.com/search?utf8=%E2%9C%93&q={}",
+		"tags"	: ["@paste", "@content"]
+	},
+
+	"codepen.io": {
+		"descr"	: "Content Hosting Service",
+		"url"	: "https://google.com/search?q=site:codepen.io {}",
+		"tags"	: ["@paste", "@content"]
+	},
+
+	"paste.ee"	: {
+		"descr"	: "Content Hosting Service",
+		"url"	: "https://google.com/search?q=site:paste.ee {}",
+		"tags"	: ["@paste", "@content"]
+	},
+
+	"jsbin.com"	: {
+		"descr"	: "Content Hosting Service",
+		"url"	: "https://google.com/search?q=site:jsbin.com {}",
+		"tags"	: ["@paste", "@content"]
+	},
+
+	"dpaste.com": {
+		"descr"	: "Content Hosting Service",
+		"url"	: "https://google.com/search?q=site:dpaste.com {}",
+		"tags"	: ["@paste", "@content"]
+	},
+
+	"jsfiddle.net": {
+		"descr"	: "Content Hosting Service",
+		"url"	: "https://google.com/search?q=site:jsfiddle.net {}",
+		"tags"	: ["@paste", "@content"]
+	},
+
+	"ideone.com": {
+		"descr"	: "Content Hosting Service",
+		"url"	: "https://google.com/search?q=site:ideone.com {}",
+		"tags"	: ["@paste", "@content"]
+	},
+
+	"repl.it"	: {
+		"descr"	: "Content Hosting Service",
+		"url"	: "https://google.com/search?q=site:repl.it {}",
+		"tags"	: ["@paste", "@content"]
+	},
+
+	"pastefs.com": {
+		"descr"	: "Content Hosting Service",
+		"url"	: "https://google.com/search?q=site:pastefs.com {}",
+		"tags"	: ["@paste", "@content"]
+	},
+
+	"pastelink.net": {
+		"descr"	: "Content Hosting Service",
+		"url"	: "https://google.com/search?q=site:pastelink.net {}",
+		"tags"	: ["@paste", "@content"]
+	},
+
+	"dailymotion.com": {
+		"descr"	: "Video Hosting Service",
+		"url"	: "https://www.dailymotion.com/search/{}",
+		"tags"	: ["@video"]
+	},
+
+	"reddit.com": {
+		"descr"	: "Social News & Media Aggregation",
+		"url"	: "https://www.reddit.com/search?q={}",
+		"tags"	: ["@social-network", "@news", "@media"]
+	},
+
+	"cnet.com"	: {
+		"descr"	: "Technology News",
+		"url"	: "https://www.cnet.com/search/?query={}",
+		"tags"	: ["@news"]
+	},
+
+	"vimeo.com"	: {
+		"descr"	: "Video Hosting Service",
+		"url"	: "https://vimeo.com/search?q={}",
+		"tags"	: ["@video"]
+	},
+
+	"slideshare.com": {
+		"descr"	: "Hosting Service for Professional Content",
+		"url"	: "https://www.slideshare.net/search/slideshow?searchfrom=header&q={}",
+		"tags"	: ["@content", "@presentation", "@infographic", "@document", "@paste"]
+	},
+
+	"deviantart.com": {
+		"descr"	: "Art display & Social Network",
+		"url"	: "https://www.deviantart.com/popular-all-time/?section=&global=1&q={}",
+		"tags"	: ["@social-network", "@art", "@content"]
+	},
+
+	"livejournal.com": {
+		"descr"	: "Russian Blog Hosting",
+		"url"	: "https://www.livejournal.com/rsearch/?journal=&q={}",
+		"tags"	: ["@blog", "@content"]
+	},
+
+	"fandom.com": {
+		"descr"	: "Wiki Hosting",
+		"url"	: "https://www.fandom.com/?s={}",
+		"tags"	: ["@wiki", "@encyclopedia"]
+	},
+
+	"capfriendly.com": {
+		"descr"	: "Canadian hockey website, which specializes in the business aspect of the NHL",
+		"url"	: "https://www.capfriendly.com/search?s={}",
+		"tags"	: ["@business", "@sport", "@hockey"]
+	},
+
+	"fiverr.com": {
+		"descr"	: "Online marketplace for freelance services",
+		"url"	: "https://www.fiverr.com/search/gigs?query={}&source=main_banner&search_in=everywhere",
+		"tags"	: ["@freelance", "@person", "@work"]
+	},
+
+	"etsy.com"	: {
+		"descr"	: "E-commerce website focused on handmade/vintage/etc as well as unique factory-manufactured items",
+		"url"	: "https://www.etsy.com/search?q={}",
+		"tags"	: ["@business", "@work"]
+	},
+
+	"sourceforge.net": {
+		"descr"	: "Web-based source code repository",
+		"url"	: "https://sourceforge.net/directory/?q={}",
+		"tags"	: ["@source-code"]
+	},
+
+	"wikihow.com": {
+		"descr"	: "Wiki-format how-to manual",
+		"url"	: "https://www.wikihow.com/wikiHowTo?search={}",
+		"tags"	: ["@wiki", "@howto", "@manual"]
+	},
+
+	"soundcloud.com": {
+		"descr"	: "Audio distribution platform and Music Sharing",
+		"url"	: "https://soundcloud.com/search?q={}",
+		"tags"	: ["@audio", "@music"]
+	},
+
+	"photobucket.com": {
+		"descr"	: "Image Hosting",
+		"url"	: "https://photobucket.com/images/{}",
+		"tags"	: ["@image"]
+	},
+
+	"github.com": {
+		"descr"	: "Git-repository hosting service",
+		"url"	: "https://github.com/?q={}",
+		"tags"	: ["@source-code"]
+	},
+
+	"zillow.com": {
+		"descr"	: "Real Estate Database",
+		"url"	: "https://www.zillow.com/homes/for_sale/{}_rb/",
+		"tags"	: ["@database", "@real-estate"]
+	},
+
+	"goodreads.com": {
+		"descr"	: "Database of Books, Annotations, and Reviews",
+		"url"	: "https://www.goodreads.com/search?utf8=%E2%9C%93&query={}",
+		"tags"	: ["@database", "@book", "@annotation", "@review"]
+	},
+
+	"disqus.com": {
+		"descr"	: "Blog Comment Hosting",
+		"url"	: "https://google.com/search?q=site:disqus.com {}",
+		"tags"	: ["@blog"]
+	},
+
+	"issuu.com"	: {
+		"descr"	: "Electronic Publishing",
+		"url"	: "https://issuu.com/search?q={}",
+		"tags"	: ["@publish", "@article"]
+	},
+
+	"hubpages.com": {
+		"descr"	: "Web Publishing",
+		"url"	: "https://hubpages.com/search/?s={}",
+		"tags"	: ["@publish", "@article"]
+	},
+
+	"liveleak.com": {
+		"descr"	: "Video Sharing",
+		"url"	: "https://www.liveleak.com/browse?q={}&a=list&submit=Submit+Query",
+		"tags"	: ["@video"]
+	},
+
+	"zimbio.com": {
+		"descr"	: "Entertainment News, Celebrity News, Celebrity Photos & Videos",
+		"url"	: "http://www.zimbio.com/search?q={}&type=all",
+		"tags"	: ["@entertainment", "@news", "@photo", "@video"]
+	},
+
+	"houzz.com"	: {
+		"descr"	: "Community about architecture, interior design, decorating, landscape design and home improvement",
+		"url"	: "https://www.houzz.com/photos/query/{}",
+		"tags"	: ["@architecture", "@design", "@community"]
+	},
+
+	"gamespot.com": {
+		"descr"	: "Video game journalism",
+		"url"	: "https://www.gamespot.com/search/?q={}",
+		"tags"	: ["@game", "@journalism"]
+	},
+
+	"cracked.com": {
+		"descr"	: "Entertainment Website",
+		"url"	: "http://www.cracked.com/search/search.php?sa=search&q={}",
+		"tags"	: ["@entertainment"]
+	},
+
+	"behance.net": {
+		"descr"	: "Self-promotion, consulting and online portfolio",
+		"url"	: "https://www.behance.net/search?content=projects&sort=appreciations&time=week&featured_on_behance=true&search={}",
+		"tags"	: ["@person", "@portfolio"]
+	},
+
+	"skyrock.com": {
+		"descr"	: "French Social Network",
+		"url"	: "https://www.skyrock.com/search/articles/?q={}",
+		"tags"	: ["@social-network"]
+	},
+
+	"weheartit.com": {
+		"descr"	: "Image-based Social Network",
+		"url"	: "https://weheartit.com/search/entries?utf8=%E2%9C%93&ac=0&query={}",
+		"tags"	: ["@social-network", "@image", "@photo"]
+	},
+
+	"dreamstime.com": {
+		"descr"	: "Stock photography/footage/music",
+		"url"	: "https://www.dreamstime.com/search.php?securitycheck=ab0e34fa86bddce4521ac57e4cdd2555&firstvalue=&lastsearchvalue=&srh_field={}&s_all=y&s_ph=y&s_il=y&s_video=y&s_audio=y",
+		"tags"	: ["@photo", "@audio", "@video", "@community"]
+	},
+
+	"icanhas.cheezburger.com": {
+		"descr"	: "Blog-format website featuring videos (usually involving animals) and image macros",
+		"url"	: "https://icanhas.cheezburger.com/search#{}",
+		"tags"	: ["@blog", "@image", "@video"]
+	},
+
+	"metacafe.com"	: {
+		"descr"	: "Video Hosting",
+		"url"	: "http://new.metacafe.com/videos_about/{}/",
+		"tags"	: ["@video"]
+	},
+
+	"last.fm"	: {
+		"descr"	: "Online Music database & Social Network",
+		"url"	: "https://www.last.fm/search?q={}",
+		"tags"	: ["@database", "@music", "@social-network"]
+	},
+
+	"fool.com": {
+		"descr"	: "Stock Investing Advice. Stock Research",
+		"url"	: "https://www.fool.com/search/solr.aspx?q={}",
+		"tags"	: ["@finance", "@investing", "@stock"]
+	},
+
+	"fixya.com"	: {
+		"descr"	: "Q&A about consumer products",
+		"url"	: "http://www.fixya.com/search.aspx?ref=ser&s={}&",
+		"tags"	: ["@QA", "@consumer"]
+	},
+
+	"kongregate.com": {
+		"descr"	: "Online gaming website & Social Network",
+		"url"	: "https://www.kongregate.com/search?q={}",
+		"tags"	: ["@game", "@social-network"]
+	},
+
+	"myfitnesspal.com": {
+		"descr"	: "Health informatics, Physical fitness Network",
+		"url"	: "https://www.myfitnesspal.com/food/search?search={}",
+		"tags"	: ["@health"]
+	},
+
+	"ultimate-guitar.com": {
+		"descr"	: "Guitarist community website",
+		"url"	: "https://www.ultimate-guitar.com/search.php?search_type=title&value={}",
+		"tags"	: ["@music", "@community"]
+	},
+
+	"dribbble.com": {
+		"descr"	: "Online community for showcasing user-made artwork",
+		"url"	: "https://dribbble.com/search?q={}",
+		"tags"	: ["@art", "@community"]
+	},
+
+	"etoro.com"	: {
+		"descr"	: "Financial services & Investing online & Social investment",
+		"url"	: "https://www.etoro.com/en/search/{}",
+		"tags"	: ["@finance", "@invest"]
+	},
+
+	"instructables.com": {
+		"descr"	: "User-created and uploaded do-it-yourself projects",
+		"url"	: "https://www.instructables.com/howto/{}/",
+		"tags"	: ["@person", "@howto"]
+	},
+
+	"reverbnation.com": {
+		"descr"	: "Marketing tools/industry opportunities for musicians, artists, bands to manage their careers",
+		"url"	: "https://www.reverbnation.com/main/search?q={}",
+		"tags"	: ["@music", "@artist", "@career"]
+	},
+
+	"armorgames.com": {
+		"descr"	: "Host for Flash-based browser games, game publisher",
+		"url"	: "https://armorgames.com/search?type=games&q={}",
+		"tags"	: ["@game", "@publish"]
+	},
+
+	"plurk.com"	: {
+		"descr"	: "Social network service & Micro-blogging",
+		"url"	: "https://www.plurk.com/search?q={}",
+		"tags"	: ["@social-network", "@blog"]
+	},
+
+	"discogs.com": {
+		"descr"	: "Database of information about audio recordings",
+		"url"	: "https://www.discogs.com/search/?q={}&type=all",
+		"tags"	: ["@database", "@audio", "@music"]
+	},
+
+	"funnyordie.com": {
+		"descr"	: "Exclusive material from a regular staff of in-house writers, producers, and directors",
+		"url"	: "https://www.funnyordie.com/search?q={}",
+		"tags"	: ["@article", "@writer", "@producer", "@director"]
+	},
+
+	"newgrounds.com": {
+		"descr"	: "Entertainment and social media",
+		"url"	: "https://www.newgrounds.com/search/summary?suitabilities=etm&terms={}",
+		"tags"	: ["@entertainment", "@social", "@media"]
+	},
+
+	"metacritic.com": {
+		"descr"	: "Films, TV shows, music albums, video games, and formerly, books review aggregator",
+		"url"	: "https://www.metacritic.com/search/all/{}/results",
+		"tags"	: ["@film", "@tv", "@music", "@game", "@book", "@review"]
+	},
+
+	"wattpad.com": {
+		"descr"	: "Internet community for readers and writers to publish new user-generated stories",
+		"url"	: "https://www.wattpad.com/search/{}",
+		"tags"	: ["@community", "@publish", "@story", "@article"]
+	},
+
+	"veoh.com"	: {
+		"descr"	: "Video distribution",
+		"url"	: "https://www.veoh.com/find/{}",
+		"tags"	: ["@video"]
+	},
+
+	"ebaumsworld.com": {
+		"descr"	: "Entertainment website",
+		"url"	: "https://www.ebaumsworld.com/search/{}/",
+		"tags"	: ["@entertainment"]
+	},
+
+	"mouthshut.com": {
+		"descr"	: "Indian user-generated content and consumer review web site",
+		"url"	: "https://www.mouthshut.com/search/prodsrch.aspx?data={}&type=&p=0-srch",
+		"tags"	: ["@comsumer", "@review"]
+	},
+
+	"fark.com"	: {
+		"descr"	: "News Aggregator",
+		"url"	: "https://www.fark.com/hlsearch?qq={}&undefined=Go&is_using_js=1",
+		"tags"	: ["@news"]
+	},
+
+	"blogtalkradio.com": {
+		"descr"	: "Internet radio network",
+		"url"	: "https://www.blogtalkradio.com/search?q={}",
+		"tags"	: ["@radio", "@audio"]
+	},
+
+	"wonderhowto.com": {
+		"descr"	: "Instructional Video Guide",
+		"url"	: "https://www.wonderhowto.com/search/{}/",
+		"tags"	: ["@video", "@howto"]
+	},
+
+	"crunchyroll.com": {
+		"descr"	: "Video streaming service",
+		"url"	: "https://www.crunchyroll.com/search?from=&q={}",
+		"tags"	: ["@video", "@stream"]
+	},
+
+	"8tracks.com": {
+		"descr"	: "Internet Radio, Music Oriented Social Network",
+		"url"	: "https://8tracks.com/explore/{}/popular",
+		"tags"	: ["@radio", "@music", "@social-network"]
+	},
+
+	"redbubble.com": {
+		"descr"	: "Marketplace for print-on-demand products based on user-submitted artwork",
+		"url"	: "https://www.redbubble.com/shop/{}?search_type=search_box",
+		"tags"	: ["@art", "@community", "@shop"]
+	},
+
+	"photodune.net": {
+		"descr"	: "Stock images from community of photographers",
+		"url"	: "https://photodune.net/search/{}",
+		"tags"	: ["@image", "@photo", "@community"]
+	},
+
+	"active.com": {
+		"descr"	: "Events and activities and connects people with the things they love to do",
+		"url"	: "https://www.active.com/search?keywords={}&location=Everywhere&category=Activities&daterange=All+future+dates",
+		"tags"	: ["@event", "@person", "@social-network"]
+	},
+
+	"colourlovers.com": {
+		"descr"	: "Social Network for Creative Designers",
+		"url"	: "https://www.colourlovers.com/palettes/search?query={}",
+		"tags"	: ["@design", "@social-network"]
+	},
+
+	"listal.com": {
+		"descr"	: "Entertainment Social Network",
+		"url"	: "https://www.listal.com/search/{}",
+		"tags"	: ["@social-network", "@entertainment"]
+	},
+
+	"morguefile.com": {
+		"descr"	: "Database for free high resolution digital stock photography",
+		"url"	: "https://morguefile.com/photos/morguefile/1/{}",
+		"tags"	: ["@database", "@photo", "@image"]
+	},
+
+	"techaupportalert.com": {
+		"descr"	: "Community-driven website about freeware programs",
+		"url"	: "https://www.techsupportalert.com/search/node/{}",
+		"tags"	: ["@community", "@program"]
+	},
+
+	"bizsugar.com": {
+		"descr"	: "Small business news, tips, blog posts and information",
+		"url"	: "https://share.bizsugar.com/search/{}",
+		"tags"	: ["@business", "@news", "@blog", "@article"]
+	},
+
+	"fitday.com": {
+		"descr"	: "Free Diet & Weight Loss Journal",
+		"url"	: "https://www.fitday.com/fitness-articles/search?q={}&sa=Search",
+		"tags"	: ["@community", "@health"]
+	},
+
+	"escapistmagazine.com": {
+		"descr"	: "Site that advocates and supports role-playing games",
+		"url"	: "https://www.escapistmagazine.com/v2/?s={}",
+		"tags"	: ["@game"]
+	},
+
+	"moddb.com"	: {
+		"descr"	: "Video game modding",
+		"url"	: "https://www.moddb.com/search?q={}&sa.x=0&sa.y=0",
+		"tags"	: ["@game"]
+	},
+
+	"designfloat.com": {
+		"descr"	: "Social media site dedicated to the design industry",
+		"url"	: "http://www.designfloat.com/search/{}",
+		"tags"	: ["@social", "@media", "@design"]
+	},
+
+	"stocktwits.com": {
+		"descr"	: "Community for investors and traders",
+		"url"	: "https://stocktwits.com/{}",
+		"tags"	: ["@community", "@invest", "@trade"]
+	},
+
+	"fotki.com"	: {
+		"descr"	: "Photo Hosting",
+		"url"	: "https://search.fotki.com/?q={}",
+		"tags"	: ["@photo", "@image"]
+	},
+
+	"trendhunter.com": {
+		"descr"	: "Collection of cutting edge trends & Community",
+		"url"	: "https://www.trendhunter.com/results?search={}",
+		"tags"	: ["@trends", "@community"]
+	},
+
+	"adsoftheworld.com": {
+		"descr"	: "Advertising archive and community that showcases creative adverts",
+		"url"	: "https://www.adsoftheworld.com/?terms={}&created=all&country=All&medium=All&industry=All",
+		"tags"	: ["@database", "@community", "@creative"]
+	},
+
+	"eventful.com": {
+		"descr"	: "Social networking, events discovery",
+		"url"	: "http://eventful.com/events?q={}",
+		"tags"	: ["@social-network", "@event"]
+	},
+
+	"shockwave.com": {
+		"descr"	: "Free Online Games Community",
+		"url"	: "http://www.shockwave.com/games/find.jsp?q={}",
+		"tags"	: ["@community", "@game"]
+	},
+
+	"activerain.com": {
+		"descr"	: "Community of real estate professionals who write blogs, exchange best practices and share information",
+		"url"	: "https://google.com/search?q=site:activerain.com {}",
+		"tags"	: ["@community", "@real-estate", "@blog", "@article"]
+	},
+
+	"destructoid.com": {
+		"descr"	: "Video game blog",
+		"url"	: "https://www.destructoid.com/search.phtml?q={}",
+		"tags"	: ["@game", "@blog"]
+	},
+
+	"techdirt.com": {
+		"descr"	: "Blog that reports on technology's legal challenges and related business and economic policy issues. It focusses on intellectual property, patent, information privacy and copyright reform in particular.",
+		"url"	: "https://www.techdirt.com/search-g.php?q={}",
+		"tags"	: ["@blog", "@business", "@economy", "@patent", "@privacy", "@copyright"]
+	},
+
+	"hypem.com": {
+		"descr"	: "Music Aggregator",
+		"url"	: "https://hypem.com/search/{}/1/",
+		"tags"	: ["@music"]
+	},
+
+	"mobypicture.com": {
+		"descr"	: "Photos/Videos/Audio Hosting",
+		"url"	: "http://www.mobypicture.com/search/simple?q={}&search=Search",
+		"tags"	: ["@photo", "@video", "@audio"]
+	},
+
+	"programmableweb.com": {
+		"descr"	: "Journal of the API economy",
+		"url"	: "https://www.programmableweb.com/search/{}",
+		"tags"	: ["@api", "@economy"]
+	},
+
+	"allmyfaves.com": {
+		"descr"	: "Entertainment, Games, Kids, Shopping, Travel",
+		"url"   : "https://google.com/search?q=site:allmyfaves.com {}",
+		"tags"	: ["@entertainment", "@game", "@kid", "@shop", "@travel"]
+	},
+
+	"biggerpockets.com": {
+		"descr"	: "Real Estate Investing Social Network",
+		"url"	: "https://www.biggerpockets.com/search?utf8=%E2%9C%93&term={}",
+		"tags"	: ["@real-estate", "@invest", "@social-network"]
+	},
+
+	"kiva.org"	: {
+		"descr"	: "Expand financial access",
+		"url"	: "https://www.kiva.org/lend?queryString={}",
+		"tags"	: ["@finance"]
+	},
+
+	"element14.com": {
+		"descr"	: "Design engineer community for sharing electronic engineering solutions",
+		"url"	: "https://www.element14.com/community/search.jspa?q={}",
+		"tags"	: ["@community", "@design", "@engineer"]
+	},
+
+	"coolspotters.com": {
+		"descr"	: "Social Networking, Celebrity, Shopping",
+		"url"	: "http://coolspotters.com/search?q={}",
+		"tags"	: ["@social-network", "@celebrity", "@shop"]
+	},
+
+	"purevolume.com": {
+		"descr"	: "Website for uploading and streaming of music files",
+		"url"	: "http://www.purevolume.com/?s={}",
+		"tags"	: ["@stream", "@music"]
+	},
+
+	"spreaker.com": {
+		"descr"	: "Podcast Hosting",
+		"url"	: "https://www.spreaker.com/search?query={}",
+		"tags"	: ["@podcast", "@audio"]
+	},
+
+	"knowem.com": {
+		"descr"	: "Username Search: Social Media, Domains and Trademarks",
+		"url"	: "https://knowem.com/checkusernames.php?u={}",
+		"tags"	: ["@database", "@social", "@media", "@person", "@domain", "@trademark"]
+	},
+
+	"fmylife.com": {
+		"descr"	: "Blog Hosting",
+		"url"	: "https://www.fmylife.com/search/{}",
+		"tags"	: ["@blog"]
+	},
+
+	"paperbackswap.com": {
+		"descr"	: "On-line book club",
+		"url"	: "http://www.paperbackswap.com/book/browser.php?k={}",
+		"tags"	: ["@community", "@book"]
+	},
+
+	"ipernity.com": {
+		"descr"	: "Photo-sharing community",
+		"url"	: "http://www.ipernity.com/search/user?w=0&q={}",
+		"tags"	: ["@photo", "@community"]
+	},
+
+	"edocrcom"	: {
+		"descr"	: "Documents-sharing Hosting",
+		"url"	: "https://www.edocr.com/search?q={}",
+		"tags"	: ["@document"]
+	},
+
+	"rgho.st"	: {
+		"descr"	: "Russian File Hosting",
+		"url"	: "http://rgho.st/search?utf8=%E2%9C%93&s={}",
+		"tags"	: ["@file"]
+	},
+
+	"ebay.com"	: {
+		"descr"	: "Online shopping",
+		"url"	: "https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw={}&_sacat=0",
+		"tags"	: ["@shop"]
+	},
+
+	"pinterest.com": {
+		"descr"	: "Discover images and, on a smaller scale, GIFs and videos",
+		"url"	: "https://www.pinterest.com/search/pins/?q={}&rs=typed",
+		"tags"	: ["@image", "@video", "@photo", "@community"]
+	},
+
+	"blogger.com": {
+		"descr"	: "Blog-publishing service that allows multi-user blogs with time-stamped entries",
+		"url"	: "https://www.google.com/search?q=site:blogger.com {}",
+		"tags"	: ["@blog", "@publish", "@person"]
+	},
+
+	"imgur.com"	: {
+		"descr"	: "Image sharing community and image hosting",
+		"url"	: "https://imgur.com/search?q={}",
+		"tags"	: ["@image", "@photo", "@community"]
+	},
+
+	"academia.edu": {
+		"descr"	: "Social Networking Site for Academics/Researchers",
+		"url"	: "https://www.academia.edu/people/search?utf8=%E2%9C%93&q={}",
+		"tags"	: ["@social-network", "@research"]
+	},
+
+	"about.me"	: {
+		"descr"	: "Social Networking Site",
+		"url"	: "https://www.google.com/search?q=site:about.me {}",
+		"tags"	: ["@social-network"]
+	},
+
+	"anobii.com": {
+		"descr"	: "Database of Books",
+		"url"	: "https://www.anobii.com/search?s={}",
+		"tags"	: ["@book", "@database"]
+	},
+
+	"athlinks.com": {
+		"descr"	: "Running, Swimming Site",
+		"url"	: "https://www.athlinks.com/search/unclaimed?category=unclaimed&term={}",
+		"tags"	: ["@athlet", "@sport"]
+	},
+
+	"blackplanet.com": {
+		"descr"	: "Social Network of Black Americans",
+		"url"	: "http://www.blackplanet.com/{}",
+		"tags"	: ["@social-network", "@person"]
+	},
+
+	"cafemom.com": {
+		"descr"	: "Social Network for Mothers",
+		"url"	: "https://thestir.cafemom.com/search.php?keyword={}",
+		"tags"	: ["@social-network", "@person"]
+	},
+
+	"care2.com"	: {
+		"descr"	: "Green Living and Social Activism",
+		"url"	: "https://www.care2.com/find/site?q={}&r=all&start=1",
+		"tags"	: ["@social-network", "@activist"]
+	},
+
+	"caringbridge.org": {
+		"descr"	: "Personal Health Journals for any Condition",
+		"url"	: "https://www.caringbridge.org/search?q={}",
+		"tags"	: ["@social-network", "@journal"]
+	},
+
+	"classmates.com": {
+		"descr"	: "School, college, work and the military",
+		"url"	: "https://www.classmates.com/siteui/search/results?q={}",
+		"tags"	: ["@social-network", "@school", "@college", "@work", "@military"]
+	},
+
+	"couchsurfing.com": {
+		"descr"	: "Worldwide Network for Making Connections between Travelers and the Communities they Visit",
+		"url"	: "https://www.google.com/search?q=site:couchsurfing.com {}",
+		"tags"	: ["@travel", "@social-network"]
+	},
+
+	"dailystrength.org": {
+		"descr"	: "Medical & emotional support community",
+		"url"	: "https://www.dailystrength.org/search?query={}",
+		"tags"	: ["@support", "@health"]
+	},
+
+	"diasporafoundation.org": {
+		"descr"	: "Decentralized, User-owned, Open Source, Nonprofit, Privacy Aware, General",
+		"url"	: "https://discourse.diasporafoundation.org/search?q={}",
+		"tags"	: ["@social-network"]
+	},
+
+	"credithubcapital.sg": {
+		"descr"	: "Licensed Moneylender Singapore",
+		"url"	: "https://credithubcapital.sg/?s={}",
+		"tags"	: ["@finance"]
+	},
+
+	"dreamwidth.org": {
+		"descr"	: "Online Journal Service",
+		"url"	: "https://www.dreamwidth.org/interests?int={}",
+		"tags"	: ["@journal", "@blog"]
+	},
+
+	"elftown.com": {
+		"descr"	: "Social Network for People Interested in Fantasy and Science Fiction",
+		"url"	: "https://www.google.com/search?q=site:elftown.com {}",
+		"tags"	: ["@social-network", "@fantasy"]
+	},
+
+	"ello.co"	: {
+		"descr"	: "Social Network Service",
+		"url"	: "https://ello.co/search?terms={}",
+		"tags"	: ["@social-network"]
+	},
+
+	"portal.elixio.net": {
+		"descr"	: "Social Network",
+		"url"	: "https://portal.elixio.net/search.php?search_query_adv={}",
+		"tags"	: ["@social-network"]
+	},
+
+	"filmaffinity.com": {
+		"descr"	: "Movies and TV Series",
+		"url"	: "https://www.filmaffinity.com/en/advsearch2.php?q={}",
+		"tags"	: ["@film", "@tv"]
+	},
+
+	"filmow.com": {
+		"descr"	: "Movies and TV Series",
+		"url"	: "https://filmow.com/buscar/?q={}",
+		"tags"	: ["@film", "@tv"]
+	},
+
+	"flixster.com": {
+		"descr"	: "Social movie site",
+		"url"	: "https://www.flixster.com/#search={}",
+		"tags"	: ["@film", "@social-network"]
+	},
+
+	"focus.com"	: {
+		"descr"	: "Social Network Company",
+		"url"	: "http://www.focus.com.au/search?searchword={}",
+		"tags"	: ["@social-network"]
+	},
+
+	"friendi.ca": {
+		"descr"	: "Decentralized Social Network",
+		"url"	: "https://dir.friendica.social/search?q={}",
+		"tags"	: ["@social-network"]
+	},
+
+	"gab.ai"	: {
+		"descr"	: "Social Network Service",
+		"url"	: "https://gab.ai/search/{}",
+		"tags"	: ["@social-network"]
+	},
+
+	"gapyear.com": {
+		"descr"	: "Travel Social Network",
+		"url"	: "https://www.gapyear.com/filtering?fwp_search={}",
+		"tags"	: ["@social-network", "@travel"]
+	},
+
+	"gays.com"	: {
+		"descr"	: "Online Dating Community for Men Seeking Men",
+		"url"	: "https://www.gays.com/erotic/{}/1",
+		"tags"	: ["@social-network", "@gays", "@dating"]
+	},
+
+	"geni.com"	: {
+		"descr"	: "Family Tree & Family History",
+		"url"	: "https://www.geni.com/search?search_type=people&names={}",
+		"tags"	: ["@family-tree", "@person"]
+	},
+
+	"girlsaskguys.com": {
+		"descr"	: "Girls and Guys Have the Answer for any Question",
+		"url"	: "https://www.girlsaskguys.com/search?q={}",
+		"tags"	: ["@QA", "@dating", "@social-network"]
+	},
+
+	"plus.googe.com": {
+		"descr"	: "Internet-Based Social Network Opereted by Google",
+		"url"	: "https://plus.google.com/s/{}/top",
+		"tags"	: ["@social-network"]
+	},
+
+	"govloop.com": {
+		"descr"	: "For People in and Around Government",
+		"url"	: "https://www.govloop.com/?s={}",
+		"tags"	: ["@social-network", "@government"]
+	},
+
+	"influenster.com": {
+		"descr"	: "Online Product Sampling and Review Platform",
+		"url"	: "https://www.influenster.com/reviews/search?q={}",
+		"tags"	: ["@review", "@product", "@consumer", "@trend"]
+	},
+
+	"irc-galleria.net": {
+		"descr"	: "Social Network in Finland",
+		"url"	: "https://irc-galleria.net/users/search?username={}",
+		"tags"	: ["@social-network", "@finland"]
+	},
+
+	"kaixin001.com"	: {
+		"descr"	: "General. In Simplified Chinese; Caters for Mainland China Users",
+		"url"	: "http://www.kaixin001.com/find/search.php?searchtype=all&open=other&keyword={}",
+		"tags"	: ["@social-network"]
+	},
+
+	"librarything.com": {
+		"descr"	: "Catalog of Books",
+		"url"	: "https://www.librarything.com/search.php?search={}",
+		"tags"	: ["@book"]
+	},
+
+	"mubi.com"	: {
+		"descr"	: "Watch and Discover Movies",
+		"url"	: "https://mubi.com/search?query={}",
+		"tags"	: ["@film", "@video"]
+	},
+
+	"ning.com"	: {
+		"descr"	: "Users Create Their own Social Websites and Social Networks",
+		"url"	: "https://www.ning.com/?s={}",
+		"tags"	: ["@social-network", "@creative", "@social"]
+	},
+
+	"partyflock.nl": {
+		"descr"	: "Dutch Virtual Community for People Interested in House Music and Other Electronic Dance Music",
+		"url"	: "https://partyflock.nl/search?&TERMS={}",
+		"tags"	: ["@social-network", "@music"]
+	},
+
+	"greenmangaming.com": {
+		"descr"	: "Computer and Video Games",
+		"url"	: "https://www.greenmangaming.com/search/{}",
+		"tags"	: ["@game"]
+	},
+
+	"quora.com"	: {
+		"descr"	: "Questions and Answers",
+		"url"	: "https://www.quora.com/search?q={}",
+		"tags"	: ["@QA"]
+	},
+
+	"roosterteeth.com": {
+		"descr"	: "Social Network Community site",
+		"url"	: "https://roosterteeth.com/#search?term={}",
+		"tags"	: ["@social-network"]
+	},
+
+	"skoob.com"	: {
+		"descr"	: "Collaborative Social Network for Brazilian Readers",
+		"url"	: "https://www.google.com/search?q={}%20site%3Askoob.com.br",
+		"tags"	: ["@social-network"]
+	},
+
+	"sec.gov"	: {
+		"descr"	: "U.S. Securities and Exchange Commission",
+		"url"	: "https://secsearch.sec.gov/search?utf8=%3F&affiliate=secsearch&query={}",
+		"tags"	: ["@government", "@business"]
+	},
+
+	"spot.im"	: {
+		"descr"	: "Social Engagement Platform that Builds Online Communities Around Digital Content",
+		"url"	: "https://www.google.com/search?q=site:spot.im {}",
+		"tags"	: ["@social-network"]
+	},
+
+	"spring.me"	: {
+		"descr"	: "Social Network for Meeting People",
+		"url"	: "https://www.google.com/search?q=site:spring.me {}",
+		"tags"	:["@social-network"]
+	},
+
+	"stage32.com": {
+		"descr"	: "US-based Social Network and Educational Site for Creative Professionals who Work in Film, Television and Theater",
+		"url"	: "https://www.google.com/search?q=site:stage32.com {}",
+		"tags"	: ["@social-network"]
+	},
+
+	"streetlife.nl": {
+		"descr"	: "British Social Networking Website that Links Users Together Based on the Neighbourhood where they Live.",
+		"url"	: "https://www.google.com/search?q=site:streetlife.nl {}",
+		"tags"	: ["@social-network"]
+	},
+
+	"studivz.net": {
+		"descr"	: "Social Networking Platform for Students in Berlin, Germany",
+		"url"	: "https://www.google.com/search?q=site:studivz.net {}",
+		"tags"	: ["@social-network"]
+	},
+
+	"mix.com"	: {
+		"descr"	: "Social Network. Curate and Share the Best of the Internet",
+		"url"	: "https://mix.com/search/{}",
+		"tags"	: ["@video", "@image", "@person", "@music", "@article"]
+	},
+
+	"taringa.net": {
+		"descr"	: "Social Network in Argentina",
+		"url"	: "https://www.taringa.net/search/story?q={}",
+		"tags"	: ["@social-network"]
+	},
+
+	"termwiki.com": {
+		"descr"	: "The Gobal Social Knowledge Network",
+		"url"	: "http://en.termwiki.com/search.jsp?ns=en&key={}",
+		"tags"	: ["@social-network"]
+	},
+
+	"the-sphere.com": {
+		"descr"	: "Infinite Social Network",
+		"url"	: "https://www.google.com/search?q=site:the-sphere.com {}",
+		"tags"	: ["@social-network"]
+	},
+
+	"exalead.com"   : {
+		"descr" : "Web Search Engine",
+		"url"   : "http://www.exalead.com/search/web/results/?q={}&elements_per_page=30&start_index=1",
+		"tags"  : ["@web-search-engine"]
+	},
+
+	"ask.com"       : {
+		"descr" : "Web Search Engine & Q&A platform",
+		"url"   : "https://www.ask.com/web?o=0&l=dir&qo=serpSearchTopBox&q={}",
+		"tags"  : ["@web-search-engine", "@QA"]
+	},
+
+	"baidu.com"     : {
+		"descr" : "Web Search Engine",
+		"url"   : "www.baidu.com/s?wd={}",
+		"tags"  : ["@web-search-engine"]
+	},
+
+	"crt.sh"        : {
+		"descr" : "Certificate Transparency Log search engine",
+		"url"   : "https://crt.sh/?q=%25{}",
+		"tags"  : ["@certificate", "@domain"]
+	},
+
+	"dogpile.com"   : {
+		"descr" : "Web Search Engine",
+		"url"   : "https://www.dogpile.com/serp?q={}",
+		"tags"  : ["@web-search-engine"]
+	},
+
+	"pgp.mit.edu"   : {
+		"descr" : "MIT PGP Public Key Server",
+		"url"   : "http://pgp.mit.edu/pks/lookup?search={}",
+		"tags"  : ["@pgp", "@gpg", "@key"]
+	},
+
+	"yandex.com"    : {
+		"descr" : "Russian Web Search Engine",
+		"url"   : "https://yandex.com/search?text={}",
+		"tags"  : ["@web-search-engine"]
+	}
+}

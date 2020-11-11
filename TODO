@@ -1,0 +1,192 @@
+=====
+To Do
+=====
+
+- Place search engines in the config file
+
+	- add `$HOME/.config/websearch` with per user settings
+
+- Fix search engines: see FIXME, XXX, TODO in code
+
+- Research
+
+	- https://en.wikipedia.org/wiki/List_of_social_networking_websites
+			- AsianAve
+			- asmallword
+			- audimated.com
+			- bebo
+			- Biip.no
+			- Bolt.com
+			- Busuu
+			- Buzznet
+			- Commonground
+			- CozyCot
+			- Cucumbertown
+			- Cyworld
+			- https://del.icio.us
+			- Dol2day
+			- DontStayIn
+			- Draugiem.lv
+			- douban
+			- Doximity
+			- DXY.cn
+			- English, baby!
+			- Eons.com
+			- eToro
+			- Fetlife
+			- fledgewing
+			- Fotolog
+			- Fuelmyblog
+			- Gaia Online
+			- GamerDNA
+			- Gather.com
+			- Gentlemint
+			- GetGlue
+			- Gogoyoko
+			- Goodwizz
+			- Grono.net
+			- Habbo
+			- Hospitality Club
+			- Hotlist
+			- HR.com
+			- Hub Culture
+			- Ibibo
+			- Indaba Music
+			- italki
+			- Itsmy
+			- Jaiku
+			- Jiepang
+			- Kiwibox
+			- LaiBhaari
+			- Late Night Shots
+			- Lifeknot
+			- LinkExpats
+			- Listography
+			- Livemocha
+			- Makeoutclub
+			- Mastodon
+			- MEETin
+			- Meetup
+			- MillatFacebook
+			- Minds
+			- mixi
+			- MocoSpace
+			- MOG
+			- MyHeritage
+			- Nasza-klasa.pl
+			- Nexopia
+			- OUTeverywhere
+			- PatientsLikeMe
+			- Pingsta
+			- Plaxo
+			- Playlist.com
+			- Plurk
+			- Poolwo
+			- quechup.com
+			- Qzone
+			- Raptr
+			- Ravelry
+			- Renren
+			- Ryze.com
+			- ScienceStage
+			- ShareTheMusic
+			- Shelfari
+			- Sina Weibo
+			- SocialVibe
+			- Sonico.com
+			- Spaces
+			- Studentcircle.net
+			- Talkbiznow.com
+			- TeachStreet
+
+	- https://en.wikipedia.org/wiki/List_of_online_databases
+
+	- http://www.pentest-standard.org/index.php/PTES_Technical_Guidelines#Intelligence_Gathering
+
+	- add missing sites
+
+	- fix descriptions on repeated sites for better one
+
+- Add new ones
+
+	- my.mail.ru (seems need to search via google)
+	- leakprobe.net
+	- badoo
+	- aliexpress
+	- yandex
+	- e-reading.mobi
+	- glassdoor and others (moikrug, headhunter)
+	- airbnb
+	- tinder
+	- mamba.ru
+	- WordPress
+	- yelp
+	- ask fm
+	- Weebly
+	- Image Shack
+	- Tagged
+	- Jimdo
+	- Four Square
+	- Steam
+	- My Space
+	- Viadeo
+	- Fan Pop
+	- Hi5
+	- 500px
+	- Gravatar
+	- Chess
+	- Slash Dot
+	- Pro Boards
+	- Star Doll
+	- About.Me
+	- Diigo
+	- Net Vibes
+	- APSense
+	- folkd
+	- Empire Avenue
+	- Spark People
+	- N4G
+	- Dzone Links
+	- Yuku
+	- Zedge
+	- Dat Piff
+	- BitLy
+	- Wanelo
+	- Toluna
+	- Fotolog
+	- Soup
+	- Flight Aware
+	- Strava
+	- Yard Barker
+	- Author Stream
+	- Get Satisfaction
+	- Fodors
+	- Tiny Chat
+	- Blog Catalog
+	- Boonex
+	- Jigsy
+	- Wall Inside
+	- Blurb
+	- Fat Secret
+	- Carbon Made
+	- Map My Run
+	- Tool Box
+	- Pusha
+	- Visualize Us
+	- Referral Key
+	- Start Aid
+	- Wigle.net
+	- Default Passwords (cirt.net/passwords)
+	- archives.gov
+	- Haveibeenpwned
+	- add cryptocurrency tracking:
+		- https://bitcoinwhoswho.com/address/{} - bitcoin
+		- https://www.walletexplorer.com/address/{} - bitcoin
+
+- Add categories/tags for search engines and make ability to search on them:
+  a.e. 	@audio, @photo, @video, @social, @doc, @map, @science, @news, @article, @paste,
+	@goverment, @wiki, @game, @blog, @media, @art, @business,
+	@lang (@russian, @american, @canadian, @poland, etc)
+	@country (@russia, @cis, @america, @europe, @canada, etc)
+
+	Need research.
