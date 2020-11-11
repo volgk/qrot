@@ -11,10 +11,12 @@ from   subprocess import Popen
 import os.path
 
 
-if not os.path.isfile ('engines.json'):
-    sys.path.append ('/usr/share/qrot')
+if os.path.isfile ('engines.json'):
+    jsonfile = 'engines.json'
+else:
+    jsonfile ='/usr/share/qrot/engines.json'
 
-with open ('engines.json') as f:
+with open (jsonfile) as f:
     engines = json.load(f) 
 
 
