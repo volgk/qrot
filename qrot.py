@@ -15,7 +15,7 @@ sys.path.append ("/usr/share/qrot")
 import search
 
 program =  'qrot'
-version =  '0.2.0'
+version =  '0.2.1'
 logo    = f'''
                               ZZZZZ$=..,$ZZZZ7:                             
                              7$ZZZZZ$I:,ZZZ7$ZZ                             
