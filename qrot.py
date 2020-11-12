@@ -40,7 +40,7 @@ logo    = f'''
                                     ,$?                                     
                     qrot -- OSINT helper tool. v{version}                   
                 (c) volgk,        <dear.volgk@gmail.com>                    
-                (c) chinarulezzz, <alexandr.savca90@gmail.com>              
+                (c) chinarulezzz, <alexandr.savca89@gmail.com>
 '''
 
 def createParser():
